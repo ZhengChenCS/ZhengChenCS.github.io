@@ -2,11 +2,8 @@
 
 Zheng Chen is a Phd. student in  [Key Laboratory of Data Engineering and Knowledge Engineering](http://deke.ruc.edu.cn/) and [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](http://www.ruc.edu.cn/). His research interests include High Performance Computing(HPC), Big Data Management System, Machine Learning.
 
-<<<<<<< HEAD
-###Address
-=======
+
 ### Address
->>>>>>> 649258af93472f0e261b0bfe760bae954ea820d5
 
 500,Information Building, No. 59 Zhongguancun Street, Haidian District Beijing, 100872, P.R. China.
 
