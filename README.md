@@ -9,8 +9,7 @@ Zheng Chen is a Phd. student in  [Key Laboratory of Data Engineering and Knowled
 
 ### Email
 
-chenzheng123@ruc.edu.cn
-
+[](chenzheng123@ruc.edu.cn)
 
 ### Education Background
 
