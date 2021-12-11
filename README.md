@@ -7,6 +7,11 @@ Zheng Chen is a Phd. student in  [Key Laboratory of Data Engineering and Knowled
 
 500,Information Building, No. 59 Zhongguancun Street, Haidian District Beijing, 100872, P.R. China.
 
+### Email
+
+chenzheng123@ruc.edu.cn
+
+
 ### Education Background
 
 1.Sep.2020 ~ Now: Phd. student in School of Information, Renmin University of China. Advisor: Prof.Xiaoyong Du and Prof.Feng Zhang.
