@@ -19,7 +19,7 @@ Zheng Chen is a Phd. student in  [Key Laboratory of Data Engineering and Knowled
 
 ### Publication
 
-**[SIGMOD'22]** "CompressGraph: Efficient Parallel Graph Analytics with Rule-Based Compression", Zheng Chen, Feng Zhang, et.al. SIGMOD, 2023.
+**[SIGMOD'23]** "CompressGraph: Efficient Parallel Graph Analytics with Rule-Based Compression", Zheng Chen, Feng Zhang, et.al. SIGMOD, 2023.
 
 **[TPDS’21]** “An Efficient Parallel Secure Machine Learning Framework on GPUs”, Feng Zhang, Zheng Chen, Chenyang Zhang, Amelie Chi Zhou, Jidong Zhai, Xiaoyong Du. IEEE Transactions on Parallel and Distributed Systems, 2021 (TPDS 2021).
 
