@@ -13,7 +13,7 @@ Zheng Chen is a Phd. student in  [Key Laboratory of Data Engineering and Knowled
 
 ### Education Background
 
-1. Sep.2020 ~ Now: Phd. student in School of Information, Renmin University of China. Advisor:  Prof.[Feng Zhang](https://fengzhangcs.github.io/) and Prof. **Xiaoyong Du**.
+1. Sep.2020 ~ Now: Ph.d. student in School of Information, Renmin University of China. Advisor:  Prof.[Feng Zhang](https://fengzhangcs.github.io/) and Prof. **Xiaoyong Du**.
 
 2. Sep.2016 ~ Jul.2020: B.S. in School of Information, Renmin University of China.
 
