@@ -29,6 +29,6 @@ Zheng Chen is a Phd. student in  [Key Laboratory of Data Engineering and Knowled
 
 **[VLDBJ’20]** “TADOC: Text Analytics Directly on Compression”, Feng Zhang, Jidong Zhai, Xipeng Shen, Dalin Wang, **Zheng Chen**, Onur Mutlu, Wenguang Chen, Xiaoyong Du. VLDB Journal
 
-**[ICPP’20]** “ParSecureML: An Efficient Parallel Secure Machine Learning Framework on GPUs”, Zheng Chen, **Feng Zhang**, Amelie Chi Zhou, Jidong Zhai, Chenyang Zhang, Xiaoyong Du. The 49th International Conference on Parallel Processing (ICPP 2020), 17-20 August 2020, Edmonton, AB, Canada.
+**[ICPP’20]** “ParSecureML: An Efficient Parallel Secure Machine Learning Framework on GPUs”, **Zheng Chen**, Feng Zhang, Amelie Chi Zhou, Jidong Zhai, Chenyang Zhang, Xiaoyong Du. The 49th International Conference on Parallel Processing (ICPP 2020), 17-20 August 2020, Edmonton, AB, Canada.
 
 **[Journal of Software’20]** “Survey on Performance Analysis, Optimization, and Applications of Heterogeneous Fusion Processors”, Feng Zhang, Jidong Zhai, **Zheng Chen**, Jiazao Lin, Xiaoyong Du. Journal of Software, 2020 (面向异构融合处理器的性能分析、优化及应用综述, 软件学报).
