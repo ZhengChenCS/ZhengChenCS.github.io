@@ -19,7 +19,7 @@ Zheng Chen is a Phd. student in  [Key Laboratory of Data Engineering and Knowled
 
 ### Work Experience
 
-1. August 2022 ~ Now: Ant Technology Research Institute, Research Intern
+1. Aug. 2022 ~ Present: Ant Technology Research Institute, Research Intern.
 
 ### Publication
 
