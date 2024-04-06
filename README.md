@@ -13,9 +13,11 @@ Zheng Chen is a Phd. student in  [Key Laboratory of Data Engineering and Knowled
 
 ### Education Background
 
-1. Sept. 2020 ~ Present: Ph.D. student in School of Information, Renmin University of China. Advisor:  Prof.[Feng Zhang](https://fengzhangcs.github.io/) and Prof. **Xiaoyong Du**.
+1. Sept. 2020 ~ Present: Ph.D. student in the School of Information, Renmin University of China. Advisor:  Prof.[Feng Zhang](https://fengzhangcs.github.io/) and Prof. **Xiaoyong Du**.
 
-2. Sept. 2016 ~ Jul.2020:  B.S. in School of Information, Renmin University of China.
+2. Apr.2024 ~ Present: visiting student, NUS School of Computing, National University of Singapore. Advisor: Prof.[Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
+
+3. Sept. 2016 ~ Jul.2020:  B.S. in School of Information, Renmin University of China.
 
 ### Work Experience
 
