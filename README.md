@@ -25,6 +25,8 @@ Zheng Chen is a Phd. student in  [Key Laboratory of Data Engineering and Knowled
 
 ### Publication
 
+**[KDD'25]** "CompressGNN: Accelerating Graph Neural Network Training via Hierarchical Compression”, Zheng Chen, Feng Zhang, Yifei Xia, Wentao Zhang, Xiaowei Zhu, Wenguang Chen,  Xiaoyong Du(**KDD'25**).
+
 **[VLDB'24]** "Enabling Window-Based Monotonic Graph Analytics with Reusable Transitional Results for Pattern-Consistent Queries", **Zheng Chen**, Feng Zhang, Yang Chen, Xiaokun Fang, Guanyu Feng, Xiaowei Zhu, Wenguang Chen, Xiaoyong Du(**VLDB 2024**)⋄
 
 **[VLDB'24]** "Improving Graph Compression for Efficient Resource-Constrained Graph Analytics", Qian Xu, Juan Yang, Feng Zhang, **Zheng Chen**, Jiawei Guan, Kang Chen, Ju Fan, Youren Shen, Ke Yang, Yu Zhang, Xiaoyong Du(**VLDB 2024**).
