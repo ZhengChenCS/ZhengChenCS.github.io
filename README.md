@@ -27,7 +27,7 @@ Zheng Chen is a Phd. student in  [Key Laboratory of Data Engineering and Knowled
 
 **[SIGMOD'26]** "HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search", Qian Xu, Feng Zhang, Chengxi Li, Lei Cao, **Zheng Chen**, Jidong Zhai, Xiaoyong Du. SIGMOD 2026.
 
-**[KDD'25]** "CompressGNN: Accelerating Graph Neural Network Training via Hierarchical Compression”, Zheng Chen, Feng Zhang, Yifei Xia, Wentao Zhang, Xiaowei Zhu, Wenguang Chen,  Xiaoyong Du(**KDD'25**).
+**[KDD'25]** "CompressGNN: Accelerating Graph Neural Network Training via Hierarchical Compression”, **Zheng Chen**, Feng Zhang, Yifei Xia, Wentao Zhang, Xiaowei Zhu, Wenguang Chen,  Xiaoyong Du(**KDD'25**).
 
 **[VLDB'24]** "Enabling Window-Based Monotonic Graph Analytics with Reusable Transitional Results for Pattern-Consistent Queries", **Zheng Chen**, Feng Zhang, Yang Chen, Xiaokun Fang, Guanyu Feng, Xiaowei Zhu, Wenguang Chen, Xiaoyong Du(**VLDB 2024**)⋄
 
