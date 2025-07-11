@@ -1,6 +1,8 @@
 ## Zheng Chen 陈政
 
-Zheng Chen is a Phd. student in  [Key Laboratory of Data Engineering and Knowledge Engineering](http://deke.ruc.edu.cn/) and [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](http://www.ruc.edu.cn/). His research interests include High Performance Computing(HPC), Big Data Management System, Machine Learning.
+Zheng Chen is currently a Postdoctoral Researcher at the Department of Computer Science and Technology of Tsinghua University, with Professor [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/#about) as his co-supervisor. 
+Prior to this, he earned his Ph.D. degree in 2025 and B.S. degree in 2020 from the School of Information, Renmin University of China.
+His research interests include High Performance Computing(HPC), Big Data Management System, Machine Learning.
 
 
 ### Address
@@ -13,7 +15,7 @@ Zheng Chen is a Phd. student in  [Key Laboratory of Data Engineering and Knowled
 
 ### Education Background
 
-1. Sept. 2020 ~ Present: Ph.D. student in the School of Information, Renmin University of China. Advisor:  Prof.[Feng Zhang](https://fengzhangcs.github.io/) and Prof. **Xiaoyong Du**.
+1. Sept. 2020 ~ June. 2025: Ph.D. student in the School of Information, Renmin University of China. Advisor:  Prof.[Feng Zhang](https://fengzhangcs.github.io/) and Prof. **Xiaoyong Du**.
 
 2. Mar.2024 ~ Sept.2024: visiting student, NUS School of Computing, National University of Singapore. Advisor: Prof.[Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
 
