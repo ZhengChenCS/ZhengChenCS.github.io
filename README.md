@@ -7,11 +7,11 @@ His research interests include High Performance Computing(HPC), Big Data Managem
 
 ### Address
 
-500,Information Building, No. 59 Zhongguancun Street, Haidian District Beijing, 100872, P.R. China.
+Ziqiang Technology Building, Haidian District, Beijing, 100084, P. R. China
 
 ### Email
 
-[chenzheng123@ruc.edu.cn](chenzheng123@ruc.edu.cn)
+[zheng-chen@mail.tsinhua.edu.cn](zheng-chen@mail.tsinghua.edu.cn)
 
 ### Education Background
 
