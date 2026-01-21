@@ -27,6 +27,8 @@ Ziqiang Technology Building, Haidian District, Beijing, 100084, P. R. China
 
 ### Publication
 
+**[Journal of Software]** "Performance Modeling and Adaptive Engine Selection for Node Identifier Storage in Graph Databases", **Zheng Chen**, Feng Zhang, Chang Qi, Zhengyilong Zhao, Xiaoyong Du.
+
 **[SIGMOD'26]** "Enabling Efficient Update on Rule-Based Compressed Graph", Lin Feng, Feng Zhang, **Zheng Chen**, Yuxin Tang, Jiawei Guan, Xiaowei Zhu, Xiaoyong Du.
 
 **[SIGMOD'26]** "Performant Synchronization in Geo-Distributed Databases", Duling Xu, Tong Li, Zegang Sun, **Zheng Chen**, Weixing Zhou, Yanfeng Zhang, Wei Lu, Xiaoyong Du.
