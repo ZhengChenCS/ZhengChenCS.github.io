@@ -11,7 +11,7 @@ Ziqiang Technology Building, Haidian District, Beijing, 100084, P. R. China
 
 ### Email
 
-[zheng-chen@mail.tsinhua.edu.cn](zheng-chen@mail.tsinghua.edu.cn)
+[zheng-chen@mail.tsinghua.edu.cn](zheng-chen@mail.tsinghua.edu.cn)
 
 ### Education Background
 
