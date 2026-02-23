@@ -27,6 +27,8 @@ Ziqiang Technology Building, Haidian District, Beijing, 100084, P. R. China
 
 ### Publication
 
+**[ICDE'26]** "Improving GPU Tensor Query Processing for Resource-Constrained Environments", Qian Xu, Feng Zhang, Shijie Gao, Kun Chen, Jianhua Wang, **Zheng Chen**, Xiaoyong Du.
+
 **[Journal of Software]** "Performance Modeling and Adaptive Engine Selection for Node Identifier Storage in Graph Databases", **Zheng Chen**, Feng Zhang, Chang Qi, Zhengyilong Zhao, Xiaoyong Du.
 
 **[SIGMOD'26]** "Enabling Efficient Update on Rule-Based Compressed Graph", Lin Feng, Feng Zhang, **Zheng Chen**, Yuxin Tang, Jiawei Guan, Xiaowei Zhu, Xiaoyong Du.
