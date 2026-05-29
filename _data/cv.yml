@@ -1,0 +1,61 @@
+cv:
+  name: Zheng Chen
+  label: Postdoctoral Researcher
+  email: zheng-chen@mail.tsinghua.edu.cn
+  location: Beijing, China
+  image: ""
+  summary: Postdoctoral Researcher at Tsinghua University. Research interests include high performance computing, big data management systems, graph analytics, databases, and machine learning systems.
+
+  sections:
+    Education:
+      - institution: Renmin University of China
+        location: Beijing, China
+        area: School of Information
+        studyType: Ph.D.
+        start_date: 2020-09
+        end_date: 2025-06
+        highlights:
+          - "Advisors: Prof. Feng Zhang and Prof. Xiaoyong Du"
+
+      - institution: National University of Singapore
+        location: Singapore
+        area: School of Computing
+        studyType: Visiting Student
+        start_date: 2024-03
+        end_date: 2024-09
+        highlights:
+          - "Advisor: Prof. Bingsheng He"
+
+      - institution: Renmin University of China
+        location: Beijing, China
+        area: School of Information
+        studyType: B.S.
+        start_date: 2016-09
+        end_date: 2020-07
+
+    Experience:
+      - company: Tsinghua University
+        position: Postdoctoral Researcher
+        location: Beijing, China
+        start_date: 2025
+        end_date: present
+        highlights:
+          - "Department of Computer Science and Technology"
+          - "Co-supervisor: Prof. Jidong Zhai"
+
+      - company: Ant Technology Research Institute
+        position: Research Intern
+        location: China
+        start_date: 2022-08
+        end_date: 2025-05
+
+    Research Interests:
+      - name: High Performance Computing
+        icon: fa-solid fa-microchip
+        keywords: "parallel systems, GPU computing, resource-constrained analytics"
+      - name: Data Management Systems
+        icon: fa-solid fa-database
+        keywords: "graph databases, vector databases, distributed databases"
+      - name: Machine Learning Systems
+        icon: fa-solid fa-diagram-project
+        keywords: "graph neural networks, compression, scalable learning systems"
