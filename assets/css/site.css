@@ -164,10 +164,43 @@ h3 {
   margin-top: 48px;
 }
 
+.publication-year {
+  margin-top: 44px;
+}
+
 .timeline,
 .pub-list {
   display: grid;
   gap: 14px;
+}
+
+.pub-list.numbered {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: publications;
+}
+
+.pub-list.numbered .item {
+  position: relative;
+  counter-increment: publications;
+  padding-left: 62px;
+}
+
+.pub-list.numbered .item::before {
+  content: counter(publications);
+  position: absolute;
+  top: 18px;
+  left: 20px;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background: var(--accent-soft);
+  color: var(--accent);
+  display: grid;
+  place-items: center;
+  font-size: 13px;
+  font-weight: 750;
 }
 
 .item {
