@@ -131,6 +131,15 @@ h3 {
   box-shadow: 0 18px 48px rgba(24, 32, 51, 0.06);
 }
 
+.profile-photo {
+  display: block;
+  width: 160px;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto 24px;
+  border-radius: 6px;
+}
+
 .info-list {
   margin: 0;
   padding: 0;
